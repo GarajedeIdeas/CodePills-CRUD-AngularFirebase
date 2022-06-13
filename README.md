@@ -1,3 +1,9 @@
+# Webinar Youtube
+CRUD con Angular y Firebase (Firestore) paso a paso
+
+## Curso completo
+[AQUÍ]([https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s))
+
 # Places
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
