@@ -2,7 +2,7 @@
 CRUD con Angular y Firebase (Firestore) paso a paso
 
 ## Curso completo
-[AQUÍ]([https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s))
+[AQUÍ](https://www.youtube.com/watch?v=t_YSrxj0wGY&t=190s)
 
 # Places
 
