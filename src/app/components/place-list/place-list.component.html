@@ -1,0 +1,11 @@
+<div class="places">
+    <div class="place" *ngFor="let place of places">
+        <div class="image" [ngStyle]="{ backgroundImage: 'url('+place.image+')' }"></div>
+        <div class="info">
+            <h4>{{place.name}}</h4>
+            <p>{{place.description}}</p>
+            <p>Coordenadas: {{place.latitude}} / {{place.longitude}}</p>
+            <button class="btn btn-outline-danger" (click)="onClickDelete(place)">Borrar</button>
+        </div>
+    </div>
+</div>
